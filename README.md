@@ -1,71 +1,124 @@
 <!-- LANGUAGE SWITCH -->
 <p align="right">
-  <a href="#english-version">🇬🇧 English</a> | <a href="#versione-italiana">🇮🇹 Italiano</a>
+  <a href="#english">English</a> | <a href="#italiano">Italiano</a>
 </p>
 
 ---
 
-# 👋 Hi, I'm **Alessandro Grotti**
+# <a id="english"></a>👋 Hi, I'm **Alessandro Grotti**
 
-🎓 **MSc Student in Digital Transformation Management** (English track)  
-🎓 **BSc in Informatics for Management – 110/110 cum laude**  
-💼 Passionate about **software engineering, dashboards, data analysis, automation**, and **digital transformation**.
-
-This repository is the homepage of my GitHub profile: here you can find my **CV**, **projects**, and academic work such as my **Bachelor’s thesis**.
+🎓 **BSc in Computer Science for Management** — graduated with **110/110 cum laude**  
+📚 Currently pursuing an **MSc in Digital Transformation Management** (English-taught)  
+💡 Passionate about **software engineering, data analysis, dashboards, automation & digital innovation**
 
 ---
 
-## 🚀 Featured Projects
-
-- **📊 Monitoring Dashboard** – A complete dashboard for applications, environments, versions, errors, and KPIs  
-- **⚙️ HR & Finance Engine** – SQL engine for cost simulations, payroll components, and economic indicators  
-- **🧠 Machine Learning & Analytics** – clustering, regressions, business insights  
-- **💻 Web Apps & React Components** – UI components, error cards, filters, and full dashboards  
-- **📂 Odoo Integrations** – automations and extensions used in a startup environment
-
-👉 More in the **Projects** section of this profile.
+## 🗂️ About Me
+- 🌍 Based in Italy, studying in an international environment  
+- 🖥️ Interested in **full-stack development**, **data-driven decision support systems**, and **enterprise software (Odoo, internal dashboards, analytics tools)**  
+- 🚀 Love building useful, elegant, fast web apps  
+- 📊 Background in **finance, econometrics, statistics, HR analytics**  
+- 📚 Experience with **React, Node.js, SQL, Python, SAS, LaTeX**
 
 ---
 
 ## 📄 Documents
-
-- **CV (English/Italian)** – Coming soon  
-- **Bachelor Thesis** – _Dashboard aziendale: analisi e implementazione per il controllo di gestione_  
-- **Course Projects & Reports**
+- 📘 **Bachelor Thesis (PDF)** → *[link after upload]*  
+- 📄 **Curriculum Vitae (PDF)** → *[link after upload]*  
 
 ---
 
-# 🇮🇹 Versione italiana
+## 🧪 University Projects
+
+### 🎓 **Bachelor’s Degree Projects**
+- **Monitoring Dashboard** — React-based system for version tracking, error analysis, ticket management  
+  👉 *Repo:* [link]  
+- **Statistical Clustering in SAS** — segmentation & descriptive analytics  
+  👉 *Repo:* [link]  
+- **Financial Indicators Engine (SQL)** — computation of EBIT, EBITDA, cashflows  
+  👉 *Repo:* [link]  
+- **Odoo Startup Work** — modules, HR/finance logic  
+  👉 *Repo:* [link]
+
 ---
 
-# 👋 Ciao, sono **Alessandro Grotti**
-
-🎓 **Studente magistrale in Digital Transformation Management** (corso in inglese)  
-🎓 **Laureato in Informatica per il Management – 110 e Lode**  
-💼 Appassionato di **ingegneria del software, dashboard, data analysis, automazione** e **digital transformation**.
-
-Questa repository è la homepage del mio profilo GitHub: trovi il mio **CV**, i miei **progetti** e la mia **tesi triennale**.
+### 🎓 **Master’s Degree Projects (Ongoing)**
+- **Digital Innovation Case Studies** — *(coming soon)*  
+- **Automation & AI Agents (n8n / Python)**  
+- **Enterprise Transformation Projects** — *(coming soon)*  
 
 ---
 
-## 🚀 Progetti in evidenza
+## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, SQL, PHP  
+**Frameworks:** React, Node.js  
+**Tools:** GitHub Actions, Docker, SAS, LaTeX  
+**Other:** Odoo, analytics dashboards, automation workflows  
 
-- **📊 Dashboard di Monitoraggio** – Dashboard completa per applicazioni, ambienti, versioni, errori e KPI  
-- **⚙️ Motore HR & Finance** – Query SQL e simulazioni economico-finanziarie  
-- **🧠 Machine Learning & Analisi dati** – clustering, regressioni, insight aziendali  
-- **💻 Web Apps & Componenti React** – Card errori, filtri, UI, dashboard  
-- **📂 Integrazioni con Odoo** – automazioni e moduli per startup
+---
 
-👉 Puoi vedere tutto nella sezione **Projects**.
+## 📬 Contacts
+- 📧 Email: *alessandrogrotti2003@gmail.com*  
+- 🔗 LinkedIn: *[add link]*  
+---
+
+---
+
+# <a id="italiano"></a>🇮🇹 Ciao! Sono **Alessandro Grotti**
+
+🎓 **Laurea triennale in Informatica per il Management** — **110 e Lode**  
+📚 Attualmente studente magistrale in **Digital Transformation Management** (in inglese)  
+💡 Interessato a **sviluppo software, data analysis, cruscotti aziendali, automazione e innovazione digitale**
+
+---
+
+## 🗂️ Chi sono
+- 🌍 Ambiente di studio internazionale  
+- 🖥️ Appassionato di **full-stack**, **dashboard analitiche**, **enterprise software**, **Odoo**  
+- 📊 Competenze in **finanza aziendale, econometria, statistica**  
+- 📚 Esperienza con **React, Node.js, SQL, Python, SAS, LaTeX**
 
 ---
 
 ## 📄 Documenti
-
-- **Curriculum (ITA/ENG)** – In arrivo  
-- **Tesi Triennale** – _Dashboard aziendale per il controllo di gestione_  
-- **Report e progetti accademici**
+- 📘 **Tesi triennale (PDF)** → *[link dopo upload]*  
+- 📄 **Curriculum Vitae (PDF)** → *[link dopo upload]*  
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! | Grazie per la visita! ✨</p>
+## 🧪 Progetti universitari
+
+### 🎓 **Progetti Triennale**
+- **Dashboard di Monitoraggio** — sistema React per versioni, errori e ticket  
+  👉 *Repo:* [link]  
+- **Clustering statistico in SAS** — analisi descrittive e segmentazione  
+  👉 *Repo:* [link]  
+- **Motore di indicatori economico-finanziari (SQL)**  
+  👉 *Repo:* [link]  
+- **Startup su Odoo** — moduli e logiche HR/Finance  
+  👉 *Repo:* [link]
+
+---
+
+### 🎓 **Progetti Magistrale (In corso)**
+- **Studi su Digital Innovation** — *(in arrivo)*  
+- **Automazione & AI Agents (n8n / Python)**  
+- **Enterprise Transformation Projects** — *(in arrivo)*  
+
+---
+
+## 🛠️ Stack Tecnologico
+**Linguaggi:** JavaScript, TypeScript, Python, SQL, PHP  
+**Framework:** React, Node.js  
+**Tool:** GitHub Actions, Docker, SAS, LaTeX  
+**Altro:** Odoo, dashboard analitiche, automazioni  
+
+---
+
+## 📬 Contatti
+- 📧 Email: *alessandrogrotti2003@gmail.com*  
+- 🔗 LinkedIn: *[aggiungi link]*  
+
+---
+
+<p align="center">🔝 <a href="#english">Back to top</a></p>
